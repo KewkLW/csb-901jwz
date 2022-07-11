@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://kewklw.github.io/csb-901jwz/static/css/main.296d083c.chunk.css",
+    "main.js": "https://kewklw.github.io/csb-901jwz/static/js/main.07dbecbf.chunk.js",
+    "main.js.map": "https://kewklw.github.io/csb-901jwz/static/js/main.07dbecbf.chunk.js.map",
+    "runtime-main.js": "https://kewklw.github.io/csb-901jwz/static/js/runtime-main.307c4820.js",
+    "runtime-main.js.map": "https://kewklw.github.io/csb-901jwz/static/js/runtime-main.307c4820.js.map",
+    "static/js/2.9265eff5.chunk.js": "https://kewklw.github.io/csb-901jwz/static/js/2.9265eff5.chunk.js",
+    "static/js/2.9265eff5.chunk.js.map": "https://kewklw.github.io/csb-901jwz/static/js/2.9265eff5.chunk.js.map",
+    "static/js/3.7eb4fa6c.chunk.js": "https://kewklw.github.io/csb-901jwz/static/js/3.7eb4fa6c.chunk.js",
+    "static/js/3.7eb4fa6c.chunk.js.map": "https://kewklw.github.io/csb-901jwz/static/js/3.7eb4fa6c.chunk.js.map",
+    "index.html": "https://kewklw.github.io/csb-901jwz/index.html",
+    "static/css/main.296d083c.chunk.css.map": "https://kewklw.github.io/csb-901jwz/static/css/main.296d083c.chunk.css.map",
+    "static/js/2.9265eff5.chunk.js.LICENSE.txt": "https://kewklw.github.io/csb-901jwz/static/js/2.9265eff5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.307c4820.js",
+    "static/js/2.9265eff5.chunk.js",
+    "static/css/main.296d083c.chunk.css",
+    "static/js/main.07dbecbf.chunk.js"
+  ]
+}
